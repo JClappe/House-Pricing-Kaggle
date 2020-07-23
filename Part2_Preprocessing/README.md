@@ -2063,11 +2063,11 @@ df_train_encoded.to_csv('encoded_train_set.csv',index=None)
 df_test_encoded.to_csv('encoded_test_set.csv',index=None)
 ```
 
-Here is the end of the second part, if you want to see advanced regression technique go to the last notebook named:\
-+ **[Part 3 - Machine Learning:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part3_Machine_Learning)**\
+Here is the end of the second part, if you want to see advanced regression technique go to the last notebook named:
++ **[Part 3 - Machine Learning:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part3_Machine_Learning)**
 
 Or you can see what was done in the previous part
-+ **[Part 1 - Exploratory Data Analysis:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part1_EDA)**\
++ **[Part 1 - Exploratory Data Analysis:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part1_EDA)**
     
 I hope you enjoyed reading this work.
 
