@@ -9,9 +9,9 @@ Today we will predict house price with advanced regression technique. If you alr
 A guided line will be followed to lead us to good results:
 + **Part 1 - Exploratory Data Analysis:**\
 *Goal: Get a deep understanding on data. Nothing will be modified, and statistical test will be used when necessary*
-+ **Part 2 - Preprocessing:**\
++ **[Part 2 - Preprocessing:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part2_Preprocessing)**\
 *Goal: Prepare data to machine learning and obtain some bright new informations.*
-+ **Part 3 - Machine Learning:**\
++ **[Part 3 - Machine Learning:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part3_Machine_Learning)**\
 *Goal: Implementing machine learning regression models, analyse their performance.*
 
 I'm really happy to share this work with you.\
@@ -3577,7 +3577,8 @@ What about dimentionnal issues? Now we know that we can't delete many variable t
 
 
 We will choose the best solution in the second notebook. If you want to share this amazing adventure with me again, go to the next part named:\
-**[House Pricing] - Part 2 - Preprocessing.**
++ **[Part 2 - Preprocessing:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part2_Preprocessing)**\
++ **[Part 3 - Machine Learning:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part3_Machine_Learning)**\
 
 ![002_HP.jpg](Images/002_HP.jpg)
 
