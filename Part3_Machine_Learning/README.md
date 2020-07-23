@@ -7,12 +7,14 @@
 Today we will predict house price with advanced regression technique.
 
 A guided line is followed to lead us to good results:
-+ **Part 1 - Exploratory Data Analysis:**\
++ **[Part 1 - Exploratory Data Analysis:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part1_EDA)**\
 *Goal: Get a deep understanding on data. Nothing will be modified, and statistical test will be used when necessary*
-+ **Part 2 - Preprocessing:**\
++ **[Part 2 - Preprocessing:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part2_Preprocessing)**\
 *Goal: Prepare data to machine learning and obtain some bright new informations.*
 + **Part 3 - Machine Learning:**\
 *Goal: Implementing machine learning regression models, analyse their performance.*
+
+
 
 Part 1 and 2 was already made in previous notebooks, in this one Part 3 - Machine Learning is about to be made.\
 I'm really happy to share this work with you...the advendure keeps running! I wish you a good reading!
@@ -2098,6 +2100,10 @@ final_sub.head()
 **Congratulation to have come so far! This third notebook ended the project.**
 
 I hope you enjoyed reading this work.
+
+If you're curious about previous parts, you can see what was made by cliking on links below:
++ **[Part 1 - Exploratory Data Analysis:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part1_EDA)**
++ **[Part 2 - Preprocessing:](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part2_Preprocessing)**
 
 This Kernel will always be a work in progress.\
 If you want to discuss any other projects or just have a chat about data science topics, I'll be more than happy to connect with you on:
