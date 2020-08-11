@@ -1,6 +1,6 @@
 # House-Pricing-Kaggle
 Top 5% Kaggle.
-Do that in nearest cities around you and you will get rich by taking all real estate opportinity!
+Do that in nearest cities around you and you will get rich by taking all real estate opportunities!
 
 This project is composed of three parts which you can read in corresponding files.
 + [Part 1 : Exploratory Data Analysis](https://github.com/JClappe/House-Pricing-Kaggle/tree/master/Part1_EDA)
